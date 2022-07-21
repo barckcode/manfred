@@ -1,0 +1,171 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Cristian",
+      "surnames": "Córdova",
+      "title": "SRE",
+      "description": "Llevo ya varios años administrando sistemas Linux y plataformas en entornos Cloud, he trabajado con AWS, Azure y GCP. Aunque me he enfocado principalmente en AWS y todos sus servicios.\n\nUno de mis principales skills es la automatización en todas sus capas. Desde la configuración de servidores hasta el declarar infraestructura como código. Para este proceso he utilizado principalmente tecnologías como Ansible, Terraform y scripts (Bash y Python)\n\nEn cuanto a infraestructura he trabajado tanto en plataformas basadas en servidores como en contenedores con Kubernetes (EKS).\nAunque actualmente también me estoy enfocando en plataformas Serverless (Lambdas).\n\nLa mayoría de empresas donde he trabajado han basado su producto en aplicaciones web (Tanto sitios web como APIs)\n\nHe definido la arquitectura de plataformas de diversos entornos: producción, QA, pre-producción, etc. Además de implantar tecnologías que me han parecido las mejores para el uso y la necesidad que se necesitaba cubrir.\n\nEn cuanto a mi trabajo indicar que llevo ya varios años trabajando en remoto 100%",
+      "avatar": {
+        "alt": "profile.JPG",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/95fc10da-143a-4331-9054-a2bbd7ef68e8_profile.jpg"
+      },
+      "location": {
+        "notes": "Madrid, España"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/helmcode"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/helmcode"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/helmcode/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Películas",
+        "fact": "* El señor de los anillos\n* Django Unchained\n* Green Book\n* La vida es bella\n* El pianista"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Logstash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kibana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prometheus",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Beats",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/helmcode/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Ansible",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
